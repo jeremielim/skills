@@ -1,13 +1,17 @@
-# Cross-Platform Haptic Design
+# Jeremie's Skills
 
-[![skills.sh](https://skills.sh/b/jeremielim/haptic-feedback-skill)](https://skills.sh/jeremielim/haptic-feedback-skill)
+[![skills.sh](https://skills.sh/b/jeremielim/skills)](https://skills.sh/jeremielim/skills)
 
-An agent skill for designing, implementing, and reviewing coherent haptic feedback across Apple platforms and Meta Horizon OS.
+A collection of agent skills for creative strategy and cross-platform product design.
 
 ## Install
 
 ```bash
-npx skills add jeremielim/haptic-feedback-skill --skill cross-platform-haptic-design
+npx skills add jeremielim/skills --skill <skill-name>
 ```
 
-The skill covers semantic haptic tokens, platform mappings, multimodal timing, fatigue prevention, accessibility, hardware fallbacks, and physical-device testing.
+Available skills:
+
+- `cross-platform-haptic-design` — Design and review Apple and Meta Horizon OS haptics.
+- `game-designer` — Develop an original game with the URF Academy game-design framework.
+- `naming` — Generate, assess, and validate names for brands, products, and design systems.
